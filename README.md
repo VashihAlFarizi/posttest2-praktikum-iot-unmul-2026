@@ -32,7 +32,7 @@ smart house memiliki sistem pencahayaan dan keamanan terintegrasi yang dapat dik
 
 - Muhammad Aidil Saputra: Pembukan dan menjelaskan alat alat yang digunakan
 - Muhamad Ihsan:  Membuat Board Schematic dan penjelasan pin alat
-- Vashih Al Farizi: Membuat Pembuatan Control telegram bot, membuat coment control semua lampu dan menjelasaka cara menggunakan
+- Vashih Al Farizi: Membuat config Control telegram bot, membuat coment control semua lampu dan menjelasaka cara menggunakan
 - Muhammad Rafif Hanif: Membuat Control MQ2 dan DHT11 dan Menjelaskan cara penggunaan sensor
 
 ---
@@ -56,6 +56,6 @@ smart house memiliki sistem pencahayaan dan keamanan terintegrasi yang dapat dik
 
 ## **Link Video Demo** ##
 
-LINK: https://youtu.be/PA9Equ17Axg
+LINK: https://youtu.be/1UBeoprrq2o
 
 ---
