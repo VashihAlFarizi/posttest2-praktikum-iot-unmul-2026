@@ -49,7 +49,8 @@ smart house memiliki sistem pencahayaan dan keamanan terintegrasi yang dapat dik
 ---
 
 ## **Board Schematic** ##
-<img width="760" height="497" alt="image" src="https://github.com/user-attachments/assets/a7cdc086-93e2-4b3c-8afe-6df554a4049d" />
+<img width="950" height="590" alt="image" src="https://github.com/user-attachments/assets/73a2eeb4-aa2d-4859-a43c-416b93d70a36" />
+
 
 ---
 
